@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm **Chase!**
 
-<!--
-**chaser164/chaser164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 *Software Engineering Intern @ Twilio*
 
-Here are some ideas to get you started:
+🏫 *Student @ Yale University*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+
+- [💼 LinkedIn](https://www.linkedin.com/in/chase-reynders)
+- [📧 Email](mailto:chase.reynders@yale.edu)
+
+## 🚢 Thanks for stopping by!
+
+Feel free to check out my repositories and reach out if you'd like to connect!
