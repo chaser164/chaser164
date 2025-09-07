@@ -1,8 +1,8 @@
 # Hi, I'm **Chase!**
 
-🌟 *Software Engineering Intern @ Twilio*
+🏫 *Senior @ Yale University*
 
-🏫 *Student @ Yale University*
+🌟 *Prev Software Engineering Intern @ Twilio*
 
 ## 📫 Connect with Me
 
