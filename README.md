@@ -2,9 +2,9 @@
 
 *Incoming SWE @ Bloomberg*
 
-*Senior @ Yale University*
-
 *Prev SWE Intern @ Twilio*
+
+*Senior @ Yale University*
 
 
 ## Connect with Me
