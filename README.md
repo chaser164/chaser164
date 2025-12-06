@@ -1,14 +1,15 @@
 # Hi, I'm **Chase!**
 
-🏫 *Senior @ Yale University*
+*Incoming SWE @ Bloomberg*
 
-🌟 *Prev Software Engineering Intern @ Twilio*
+*Senior @ Yale University*
 
-## 📫 Connect with Me
+*Prev SWE Intern @ Twilio*
 
-- [💼 LinkedIn](https://www.linkedin.com/in/chase-reynders)
-- [📧 Email](mailto:chase.reynders@yale.edu)
 
-## 🚢 Thanks for stopping by!
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/chase-reynders)
+- [Email](mailto:chase.reynders@yale.edu)
 
 Feel free to check out my repositories and reach out if you'd like to connect!
